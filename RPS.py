@@ -1,8 +1,8 @@
 number = float(input("Впиши число: "))
 
 if number > 5:
-    print("Ты крут!")
+    print("Даня лох")
 elif number < 5:
-    print("Ты не крут :(")
+    print("Даня гей")
 else:
-    print("Ты ровно на грани... 5 — это нейтрально!")
+    print("Даня норм поцык")
