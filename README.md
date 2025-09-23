@@ -7,6 +7,3 @@
 ## роли
 1. Team leader (Морозов Александр)
 2. Member (Овчинников Артем)
-
-## Ссылка на репозеторий 
-https://github.com/Fram1se/RPS.git
