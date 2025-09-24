@@ -20,5 +20,4 @@ def guess_number():
         except ValueError:
             print("Пожалуйста, введите целое число!")
 
-# Запускаем игру
 guess_number()
