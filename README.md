@@ -16,4 +16,3 @@ RPS
 ## Полный путь к локальной папке проекта
 1. Teamlead - C:/workspace/shinkurka/RPS
 2. Member - C:/workspace/RPS
-
