@@ -9,7 +9,7 @@
 # Данные участнков
 
 ## Логин GitHub
-1. Teamlead - Fram1se
+1. pidr - Fram1se
 2. Member - Art-021
 3. Teacher - Teacher001-top
 
