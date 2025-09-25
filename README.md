@@ -10,7 +10,7 @@
 
 ## Логин GitHub
 1. Teamlead - Fram1se
-2. Member - Art-021
+2. proverka - Art-021
 3. Teacher - Teacher001-top
 
 ## Полный путь к локальной папке проекта
